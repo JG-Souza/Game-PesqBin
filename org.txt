@@ -1,0 +1,3 @@
+# Melhoras futuras
+- Configurar o max como inputs
+- Aperte H para um menu de ajuda
